@@ -8,7 +8,7 @@ They involve algorithms that turn advanced calculus, differential equations, and
 
 I developed a C script to perform the bisection analysis numerical method to arrive at an approximate root of a continuous polynomial function. <!-- include derivation? -->
 
-The user inputs two estimated initial guesses of x, with y values which should ideally be on opposite sides of the x-axis (so the intermediate value theorem holds) and the script performs the desired number of iterations and arrives at an approximate root.
+The user inputs two estimated initial guesses of x, with y values which should ideally be on opposite sides of the x-axis (so the intermediate value theorem holds) and the script performs the desired number of iterations and arrives at an approximate root. <!-- seriously considering -->
 
 <img src="./explanation_pic.png" style="display:block; margin-left:auto; margin-right:auto;">
 
