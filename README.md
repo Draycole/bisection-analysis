@@ -7,7 +7,9 @@ They involve algorithms that turn advanced calculus, differential equations, and
 <!-- Numerical methods refer to approximate techniques used to solve mathematical problems that cannot be solved analytically or require extensive computations, 
 
 
-such as differential equations and systems of equations. These methods are implemented on computers and account for errors due to the finite precision of numerical operations. (sciencedirect) -->
+such as differential equations and systems of equations. 
+
+These methods are implemented on computers and account for errors due to the finite precision of numerical operations. (sciencedirect) -->
 
 I developed a C script to perform the bisection analysis numerical method to arrive at an approximate root of a continuous polynomial function. <!-- include derivation? -->
 
