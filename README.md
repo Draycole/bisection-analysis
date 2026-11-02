@@ -4,7 +4,7 @@ Numerical methods are mathematical techniques used to find approximate solutions
 
 They involve algorithms that turn advanced calculus, differential equations, and linear algebra into simple arithmetic operations, such as addition, subtraction, multiplication, and division.
 
-<!-- Numerical methods refer to approximate techniques used to solve mathematical problems that cannot be solved analytically or require extensive computations, 
+<!-- Numerical methods refer to approximate techniques used to solve mathematical problems that cannot be solved analytically or require extensive computations,   
 
 such as differential equations and systems of equations.  
 
