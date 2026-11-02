@@ -8,7 +8,7 @@ They involve algorithms that turn advanced calculus, differential equations, and
 
 such as differential equations and systems of equations.  
 
-These methods are implemented on computers and account for errors due to the finite precision of numerical operations. (sciencedirect) -->
+These methods are implemented on computers and account for errors due to the finite precision of numerical operations. (sciencedirect)  -->
 
 I developed a C script to perform the bisection analysis numerical method to arrive at an approximate root of a continuous polynomial function. <!-- include derivation? -->
 
